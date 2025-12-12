@@ -64,6 +64,7 @@ https://github.com/IamUnmona/MySQL-Personal-Nutrition-and-Fitness-Management-Sys
 
 GitHub: https://github.com/IamUnmona  
 LinkedIn: https://www.linkedin.com/in/unmonadas/  
-Tableau Public: https://public.tableau.com/
+Tableau Public: [https://public.tableau.com/](https://public.tableau.com/app/profile/unmona.das/vizzes)
+Salesforce: https://www.salesforce.com/trailblazer/unmona
 
 ---
